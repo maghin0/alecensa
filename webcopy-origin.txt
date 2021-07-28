@@ -1,0 +1,688 @@
+Uri: https://www.alecensa.com/hcp.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/dam/gene/alecensa/logos/ALECENSA_Favicon.ico
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\alecensa\logos\ALECENSA_Favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap
+File Name: C:\Downloaded Web Sites\www.alecensa.com\css2.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.alecensa.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-dependencies.min.css
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-dependencies.min.css
+Content Type: text/css
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-base.min.css
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-base.min.css
+Content Type: text/css
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site.min.css
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site.min.css
+Content Type: text/css
+
+Uri: https://www.alecensa.com/hcp/safety.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\safety.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index.htm
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/contact-a-representative.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\contact-a-representative.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/register.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\register.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/alecensa-references.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\alecensa-references.html
+Content Type: text/html
+
+Uri: https://www.gene.com/download/pdf/alecensa_prescribing.pdf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\download\pdf\alecensa_prescribing.pdf
+Content Type: application/pdf
+
+Uri: https://www.alecensa.com/hcp/disease-state-moa/about-alk-mnsclc.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\disease-state-moa\about-alk-mnsclc.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/disease-state-moa/moa.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\disease-state-moa\moa.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/alk-mnsclc-clinical-overview/1l-clinical-trial-design.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\alk-mnsclc-clinical-overview\1l-clinical-trial-design.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/alk-mnsclc-clinical-overview/1l-pfs.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\alk-mnsclc-clinical-overview\1l-pfs.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/alk-mnsclc-clinical-overview/1l-cns-efficacy.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\alk-mnsclc-clinical-overview\1l-cns-efficacy.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/alk-mnsclc-clinical-overview/1l-safety-profile.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\alk-mnsclc-clinical-overview\1l-safety-profile.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/alk-mnsclc-clinical-overview/post-crizotinib-treatment.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\alk-mnsclc-clinical-overview\post-crizotinib-treatment.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/dosing-for-alecensa/dosing-and-administration.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\dosing-for-alecensa\dosing-and-administration.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/dosing-for-alecensa/dose-modifications.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\dosing-for-alecensa\dose-modifications.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/resources/financial-support-for-patients.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\resources\financial-support-for-patients.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/resources/professional-resources-and-downloads.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\resources\professional-resources-and-downloads.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/hcp/resources/financial-support-for-patients.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\hcp\resources\financial-support-for-patients.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/hcp/register.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\hcp\register.html
+Content Type: text/html
+
+Uri: https://www.gene.com/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.gene.com/contact-us
+File Name: C:\Downloaded Web Sites\www.alecensa.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.gene.com/privacy-policy
+File Name: C:\Downloaded Web Sites\www.alecensa.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.gene.com/terms-conditions
+File Name: C:\Downloaded Web Sites\www.alecensa.com\terms-conditions.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/hcp/site-map.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\site-map.html
+Content Type: text/html
+
+Uri: https://nexus.ensighten.com/gene/prod/Bootstrap.js
+File Name: C:\Downloaded Web Sites\www.alecensa.com\gene\prod\Bootstrap.js
+Content Type: application/javascript
+
+Uri: https://www.alecensa.com/content/dam/gene/alecensa/logos/alecensa-logo.genecoreimg.750.png
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\alecensa\logos\alecensa-logo.genecoreimg.750.png
+Content Type: image/png
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/images/optimized-img-placeholder.png
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\images\optimized-img-placeholder.png
+Content Type: image/png
+
+Uri: https://www.alecensa.com/content/dam/gene/global/logos/genentech-logo-white.genecoreimg.240.svg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\global\logos\genentech-logo-white.genecoreimg.240.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alecensa.com/etc.clientlibs/gene-common/clientlibs/clientlib-analytics.min.js
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\gene-common\clientlibs\clientlib-analytics.min.js
+Content Type: application/javascript
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-dependencies.min.js
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-dependencies.min.js
+Content Type: application/javascript
+
+Uri: https://www.alecensa.com/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\clientlibs\granite\jquery\granite\csrf.min.js
+Content Type: application/javascript
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-base.min.js
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-base.min.js
+Content Type: application/javascript
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/components/structure/loadingoverlay/v1/loadingoverlay/clientlibs/js.min.js
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\components\structure\loadingoverlay\v1\loadingoverlay\clientlibs\js.min.js
+Content Type: application/javascript
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-base.min.js
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-base.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=recaptchaReady
+File Name: C:\Downloaded Web Sites\www.alecensa.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular-Italic.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular-Italic.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular-Italic.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular-Italic.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Regular-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Regular-Italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold-Italic.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold-Italic.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold-Italic.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold-Italic.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Bold-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Bold-Italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin-Italic.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin-Italic.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin-Italic.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin-Italic.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin-Italic.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/gene-typeface-family/Gene-Sans-Thin-Italic.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\gene-typeface-family\Gene-Sans-Thin-Italic.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/39a8c847-6d65-44ec-92e6-46e2aa8db834.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\39a8c847-6d65-44ec-92e6-46e2aa8db834.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/23674a3a-6e87-4ade-817d-6bd3b6a7d538.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\23674a3a-6e87-4ade-817d-6bd3b6a7d538.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/4548ac88-af2c-4b63-ac2b-94e9ef6cd1b9.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\4548ac88-af2c-4b63-ac2b-94e9ef6cd1b9.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/380327b2-8e54-40b1-a569-eb17e46f7e17.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\380327b2-8e54-40b1-a569-eb17e46f7e17.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/dedfb9ca-341f-404d-b76e-d781f9ee375f.svg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\dedfb9ca-341f-404d-b76e-d781f9ee375f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/2012d9ca-e6bd-43d1-a275-9e6b0f788e92.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\2012d9ca-e6bd-43d1-a275-9e6b0f788e92.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/dcaa3c19-252a-407d-945c-4b770dd32417.svg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\dcaa3c19-252a-407d-945c-4b770dd32417.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/64017d81-9430-4cba-8219-8f5cc28b923e.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\64017d81-9430-4cba-8219-8f5cc28b923e.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/fbc6b03a-b3a1-427c-a884-053deca3a53c.eot?
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\fbc6b03a-b3a1-427c-a884-053deca3a53c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/0d416408-95c6-4ad7-b08d-e60573d3b37d.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\0d416408-95c6-4ad7-b08d-e60573d3b37d.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/d999c07b-a049-4eb5-b8a6-4f36ae25e67e.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\d999c07b-a049-4eb5-b8a6-4f36ae25e67e.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/4d4a75f5-d32a-4a09-8665-133afd39cc37.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\4d4a75f5-d32a-4a09-8665-133afd39cc37.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/fonts/pat/8152bc4e-d700-4c78-b6be-326893e6f53f.svg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\fonts\pat\8152bc4e-d700-4c78-b6be-326893e6f53f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/3ba56aa2-c01d-4bfc-aae4-eac13ee2ebbc.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\3ba56aa2-c01d-4bfc-aae4-eac13ee2ebbc.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/51f1c13a-2c9b-4cba-9cbf-93317cbd3e10.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\51f1c13a-2c9b-4cba-9cbf-93317cbd3e10.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/7b11ae47-5126-4c06-8f61-fbee4b6a8461.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\7b11ae47-5126-4c06-8f61-fbee4b6a8461.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/d6936923-56f5-4284-bb73-3230f8a49594.svg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\d6936923-56f5-4284-bb73-3230f8a49594.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/858f50d9-f514-4dfa-8c90-310324ae3bbc.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\858f50d9-f514-4dfa-8c90-310324ae3bbc.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/63546f2e-ec1b-481d-93af-81d9530d6686.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\63546f2e-ec1b-481d-93af-81d9530d6686.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/d13c38b0-30e7-47f0-bc36-e2b7752b59e3.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\d13c38b0-30e7-47f0-bc36-e2b7752b59e3.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/50cd1762-b122-47c3-bce4-8e385f6a6db0.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\50cd1762-b122-47c3-bce4-8e385f6a6db0.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/2becde0a-efb7-469b-a992-fcebff7f02bb.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\2becde0a-efb7-469b-a992-fcebff7f02bb.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/ffa1b212-f1e5-4934-89b5-20243a9f94af.svg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\ffa1b212-f1e5-4934-89b5-20243a9f94af.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/67be2cc4-236d-40b5-bf46-12c75a2679ff.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\67be2cc4-236d-40b5-bf46-12c75a2679ff.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/de3411e1-8034-40c1-a040-22ac43cf4831.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\de3411e1-8034-40c1-a040-22ac43cf4831.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/80645bed-0941-4f8b-837d-25e731464440.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\80645bed-0941-4f8b-837d-25e731464440.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/dc50c02f-3f77-4e75-b89c-e3f9bb4752e6.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\dc50c02f-3f77-4e75-b89c-e3f9bb4752e6.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/ce6f5b38-1cb5-4a27-8182-583aa68b2436.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\ce6f5b38-1cb5-4a27-8182-583aa68b2436.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/ff06cde7-e06a-4cf0-af4d-5b2f737bf544.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\ff06cde7-e06a-4cf0-af4d-5b2f737bf544.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/958b12cf-2908-4254-8cb9-9b12c3aa151e.svg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\958b12cf-2908-4254-8cb9-9b12c3aa151e.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/56e66f56-3016-44fd-84b2-8e40d9743656.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\56e66f56-3016-44fd-84b2-8e40d9743656.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/4d65bb6f-e667-4bd0-8e92-34e67bf6ac8b.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\4d65bb6f-e667-4bd0-8e92-34e67bf6ac8b.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/86631d82-6e27-4db2-988a-6b79a6c0d8ed.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\86631d82-6e27-4db2-988a-6b79a6c0d8ed.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/6dfa3ef5-ebc5-4d23-a631-b3d746c2ad39.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\6dfa3ef5-ebc5-4d23-a631-b3d746c2ad39.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/588c9ba8-1d28-4ad6-bf18-7128152d84c4.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\588c9ba8-1d28-4ad6-bf18-7128152d84c4.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/55334dfb-9c72-4147-8de0-21239f17ff25.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\55334dfb-9c72-4147-8de0-21239f17ff25.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/62455047-c81f-44f1-8938-7739fa0f0e8d.svg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\62455047-c81f-44f1-8938-7739fa0f0e8d.svg
+Content Type: image/svg+xml
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/15ed0ff2-0715-4aca-af0c-00840c3a4dd7.woff2
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\15ed0ff2-0715-4aca-af0c-00840c3a4dd7.woff2
+Content Type: 
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/9b77b336-b221-497e-b255-7833856bb4a9.woff
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\9b77b336-b221-497e-b255-7833856bb4a9.woff
+Content Type: application/font-woff
+
+Uri: https://www.alecensa.com/etc.clientlibs/alecensa/clientlibs/clientlib-site/css/resources/fonts/5c9a7798-4870-4139-ab84-7a300a7dc3e1.ttf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\alecensa\clientlibs\clientlib-site\css\resources\fonts\5c9a7798-4870-4139-ab84-7a300a7dc3e1.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.alecensa.com/content/dam/gene/alecensa/patient/images/Homepage_Hero_Tablet_v1_750x390_x2.jpg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\alecensa\patient\images\Homepage_Hero_Tablet_v1_750x390_x2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.alecensa.com/content/dam/gene/alecensa/hcp/images/Alecensa-HCP-Hero-Tablet-Image.jpg
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\alecensa\hcp\images\Alecensa-HCP-Hero-Tablet-Image.jpg
+Content Type: image/jpeg
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/images/pat/triangles.png
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\images\pat\triangles.png
+Content Type: image/png
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/images/pat/start-over.png
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\images\pat\start-over.png
+Content Type: image/png
+
+Uri: https://www.alecensa.com/etc.clientlibs/genentech-core/clientlibs/clientlib-site/resources/images/pat/update-arrow.png
+File Name: C:\Downloaded Web Sites\www.alecensa.com\etc.clientlibs\genentech-core\clientlibs\clientlib-site\resources\images\pat\update-arrow.png
+Content Type: image/png
+
+Uri: https://www.alecensa.com/patient/patient-support/register.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\patient-support\register.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/alecensa-terms-to-know.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\alecensa-terms-to-know.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/safety.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\safety.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/what-is-alk-positive-mnsclc/what-is-alk-positive-mnsclc.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\what-is-alk-positive-mnsclc\what-is-alk-positive-mnsclc.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/what-is-alk-positive-mnsclc/about-alecensa.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\what-is-alk-positive-mnsclc\about-alecensa.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/how-alecensa-may-help/newly-diagnosed-alk-positive-mnsclc.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\how-alecensa-may-help\newly-diagnosed-alk-positive-mnsclc.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/how-alecensa-may-help/after-crizotinib.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\how-alecensa-may-help\after-crizotinib.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/how-alecensa-may-help/possible-side-effects.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\how-alecensa-may-help\possible-side-effects.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/starting-alecensa/how-to-take-alecensa.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\starting-alecensa\how-to-take-alecensa.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/starting-alecensa/talk-with-your-doctor.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\starting-alecensa\talk-with-your-doctor.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/starting-alecensa/how-to-fill-prescription.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\starting-alecensa\how-to-fill-prescription.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/alk-positivity-project/the-alk-positivity-videos.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\alk-positivity-project\the-alk-positivity-videos.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/alk-positivity-project/the-alk-positivity-gallery.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\alk-positivity-project\the-alk-positivity-gallery.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/patient-support/financial-and-other-resources.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\patient-support\financial-and-other-resources.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/patient-support/living-with-alk-positive-mnsclc.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\patient-support\living-with-alk-positive-mnsclc.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/patient-support/patient-support-organizations.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\patient-support\patient-support-organizations.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/patient-support/download-resources-for-alecensa.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\patient-support\download-resources-for-alecensa.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/alk-positivity-project/the-alk-positivity-videos.html.html?playlistVideoId=ref:jens-story
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\alk-positivity-project\the-alk-positivity-videos.html.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/patient-support/financial-and-other-resources.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\patient-support\financial-and-other-resources.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/how-alecensa-may-help/newly-diagnosed-alk-positive-mnsclc.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\how-alecensa-may-help\newly-diagnosed-alk-positive-mnsclc.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/patient/site-map.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\site-map.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/hcp/alk-mnsclc-clinical-overview/1l-pfs.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\hcp\alk-mnsclc-clinical-overview\1l-pfs.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/hcp/alk-mnsclc-clinical-overview/1l-cns-efficacy.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\hcp\alk-mnsclc-clinical-overview\1l-cns-efficacy.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/hcp/contact-a-representative.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\hcp\contact-a-representative.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/hcp/alk-mnsclc-clinical-overview/1l-safety-profile.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\hcp\alk-mnsclc-clinical-overview\1l-safety-profile.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/hcp/dosing-for-alecensa/dosing-and-administration.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\hcp\dosing-for-alecensa\dosing-and-administration.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/dam/gene/alecensa/pdfs/alecensa-dosing-and-administration-guide.pdf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\alecensa\pdfs\alecensa-dosing-and-administration-guide.pdf
+Content Type: application/pdf
+
+Uri: https://www.copayassistancenow.com/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/alecensa/find-patient-assistance/co-pay-assistance-foundations.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\brands\alecensa\find-patient-assistance\co-pay-assistance-foundations.html
+Content Type: text/html
+
+Uri: https://www.gene.com/patients/patient-foundation
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patients\patient-foundation.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/alecensa/find-patient-assistance/help-for-uninsured-patients.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\brands\alecensa\find-patient-assistance\help-for-uninsured-patients.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/alecensa/learn-about-our-services/our-services.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\brands\alecensa\learn-about-our-services\our-services.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/alecensa.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\brands\alecensa.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/alecensa/forms-and-documents.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\brands\alecensa\forms-and-documents.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/dam/gene/alecensa/pdfs/alecensa-clinical-overview-brochure.pdf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\alecensa\pdfs\alecensa-clinical-overview-brochure.pdf
+Content Type: application/pdf
+
+Uri: https://www.alecensa.com/content/dam/gene/alecensa/pdfs/alecensa-patient-education-brochure.pdf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\alecensa\pdfs\alecensa-patient-education-brochure.pdf
+Content Type: application/pdf
+
+Uri: https://www.alecensa.com/content/dam/gene/alecensa/pdfs/alecensa-patient-education-brochure-es.pdf
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\dam\gene\alecensa\pdfs\alecensa-patient-education-brochure-es.pdf
+Content Type: application/pdf
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/alk-positivity-project/the-alk-positivity-videos.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\alk-positivity-project\the-alk-positivity-videos.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp/brands/alecensa/learn-about-our-services/product-distribution.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp\brands\alecensa\learn-about-our-services\product-distribution.html
+Content Type: text/html
+
+Uri: https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program
+File Name: C:\Downloaded Web Sites\www.alecensa.com\safety\medwatch-fda-safety-information-and-adverse-event-reporting-program.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/patient-support/register.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\patient-support\register.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/patient-support/living-with-alk-positive-mnsclc.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\patient-support\living-with-alk-positive-mnsclc.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/patient-support/patient-support-organizations.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\patient-support\patient-support-organizations.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/starting-alecensa/how-to-take-alecensa.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\starting-alecensa\how-to-take-alecensa.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/starting-alecensa/talk-with-your-doctor.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\starting-alecensa\talk-with-your-doctor.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/patient-support/download-resources-for-alecensa.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\patient-support\download-resources-for-alecensa.html
+Content Type: text/html
+
+Uri: https://www.alecensa.com/content/alecensa/en_us/patient/how-alecensa-may-help/possible-side-effects.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\content\alecensa\en_us\patient\how-alecensa-may-help\possible-side-effects.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/patient/brands/alecensa.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\brands\alecensa.html
+Content Type: text/html
+
+Uri: https://players.brightcove.net/6125588073001/LsmjwqKd_default/index.min.js
+File Name: C:\Downloaded Web Sites\www.alecensa.com\6125588073001\LsmjwqKd_default\index.min.js
+Content Type: application/javascript
+
+Uri: https://www.genentech-access.com/patient/brands/alecensa/how-we-help-you.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\brands\alecensa\how-we-help-you.html
+Content Type: text/html
+
+Uri: https://copayassistancenow.com/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.healthcare.gov/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.alkpositive.org/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/patient/patientconsent.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\patient\patientconsent.html
+Content Type: text/html
+
+Uri: https://www.genentech-access.com/hcp.html
+File Name: C:\Downloaded Web Sites\www.alecensa.com\hcp-1.html
+Content Type: text/html
+
+Uri: https://lungevity.org/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index-5.htm
+Content Type: text/html
+
+Uri: https://go2foundation.org/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.lungcancerresearchfoundation.org/
+File Name: C:\Downloaded Web Sites\www.alecensa.com\index-7.htm
+Content Type: text/html
+
